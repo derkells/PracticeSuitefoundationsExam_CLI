@@ -2,6 +2,11 @@
 CLI practice test for the SuiteFoundations Exam!  
 While I made this for the SuiteFoundations exam, it could be used with any material you are interested in learning.
 
+## How to Run
+1. Pull Repo from GitHub
+2. Open Terminal and CD to the parent folder
+3. Run the script ( python RunQuiz.py )
+
 ## Requirements
 - **Python Interpreter**: This script requires Python to run. (I use Python 3.12.2).
 - **Python Standard Library**: All necessary libraries are included in Python's standard library, so no external packages are required.
