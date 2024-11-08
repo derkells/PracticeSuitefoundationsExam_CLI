@@ -1,0 +1,254 @@
+1) Which record types support the Multiple Currency feature? (Choose  2.)?
+A. Vendor  
+B. Employees  
+C. Customer  
+D. Partners  
+E. Competitors
+2) Which feature allows users to manage inventory in various  locations?
+A. Locations  
+B. Inventory  
+C. Multi -Location  Inventory  
+D. Advanced Inventory  Management
+3) Which statement is correct about renaming  records/transactions?
+A. The navigational path to the record updates with the  renaming.  
+B. Abbreviations for Transaction Names can only contain up to 10 alphanumeric and/or special characters.
+C. Abbreviations for Account Type Names can be used to access the account when recording journal  entries.
+D. The renaming process applies to each language used within the  system.
+4) Which steps are needed to disable the Multi -Subsidiary Customer feature? (Choose  2.)?
+A. Reverse or delete all transactions related to customers and their secondary  subsidiaries.  
+B. Inactiva te Customer records with multiple transactions on different  subsidiaries.  
+C. Remove all secondary subsidiaries from Customer  records.  
+D. Set only one primary subsidiary and one secondary subsidiary in the Customer  record.
+5) Which is considered the primary classification used to organize records in a NetSuite OneWorld 
+account?
+A. Departments  
+B. Classes
+C. Subsidiaries
+D. Locations
+6) Which field type can be used to track Employee  birthdays?
+A. Date  
+B. Date/Time  
+C. Time of  Day 
+D. Record is  Parent
+7) Which statement is true about custom  forms?  
+A. Even if a custom form is stored with a record a user cannot access the form if it is not enabled for their  role.
+B. If you set preferred forms without restricting them employees can still change the form when entering  records.
+C. The Store Form w ith Record option is available for all custom entry and custom transaction forms.
+D. Define preferred forms from Home > Set  Preferences.
+8) Which statement is correct regarding Custom  Transactions?  
+A. Custom Transaction Types can have auto -generated document  numbe rs. 
+B. Custom Transaction Types cannot be imported via  CSV.  
+C. Users can only create one custom form for each transaction  type.  
+D. Custom Transaction Types cannot include Custom Transaction body  fields.
+9) What customization feature allows users with no scripting knowledge to modify standard NetSuite processes?
+A. SuiteBuilder  
+B. SuiteFlow  
+C. SuiteBundler  
+D. SuiteTalk
+10) Where can users set a Default Role upon logging into  NetSuite?  
+A. On the Employee record > Access tab mark the Default checkbox next to the assigned  role.
+B. On the Choose Role page mark the Default checkbox next to the assigned  role.
+C. On the Home page click the star icon below the  Oracle NetSuite  logo.
+D. On the Role record > Users tab mark the Default checkbox next to the assigned  user.
+11) Where do users access NetSuite Performance  Details?  
+A. Double -click the company  logo.  
+B. Double -click the Oracle NetSuite  logo.  
+C. Double -click the User Role dropdown  menu.  
+D. Set up the Key Performance Indicators  portlet.  
+12) While editing a cash sale a user must refresh the record to see the latest email received fromthe customer. What must the user also do to see the email without losing unsaved data on the cash  sale?
+A. Go to the Communication subtab and click Refresh on the Messages  sublist.  
+B. Right -click the Refresh icon on the browser and click Soft  Refresh. 
+C. Refresh the whole  page.  
+D. Click the Receive Email  Crosslink.
+13) Where in NetSuite can a user find the Show Internal IDs  preference?
+A. Setup tab > Enable  Features  
+B. Home > General  Preferences  
+C. Home > Set  Preferences  
+D. Setup tab > Accounting  Preferences
+14) Which restrictions can apply to records on the Home > Set Preferences > Restrict View tab? (Choose  2.)?
+A. Period  
+B. Segment  
+C. Location  
+D. Department
+15) A user created a List of Items Sold Today report using a saved search. Which portlet allows the user to add this report to the Home  dashboard?
+A. Custom Search  
+B. Report Snapshots  
+C. Quick Search  
+D. Custom  List
+16) Which Documents > Mail Merge > Bulk Merge option is available for users to create bulk communications?
+A. Event  
+B. Fax 
+C. CSV 
+D. Cases
+17) Which statement is true about restricting files in the File  Cabinet?
+A. To make files available to company users only select the Company -Wide Usage box on the file record.
+B. NetSuite allows users to restrict individual  files.  
+C. The Available Without Login preference is selected by  default.  
+D. If a parent folder's restriction changes after a subfolder is created the subfolder inherits the new restriction.
+18) Where should a user go to set a default expiration (in days) for Estimate  records?
+A. Sales  Preferences  
+B. The Estimate  record  
+C. The Customer record  
+D. Accounting  Preferences
+19) Which statements are true when converting Leads? (Choose  2.) ?
+A. A Lead record can be converted to the Customer stage without creating a  sales order transaction.  
+B. Leads converted to Customers can never be converted back to  Leads.  
+C. When an Opportunity is created the Lead record follows the status of the Opportunity record.
+D. Leads can be converted to the Custom er stage through a Relationships type CSV  import.
+20) What is the customer status after creating an Estimate for a Lead  record?
+A. Lead  
+B. Prospect  
+C. Customer  
+D. Contact
+21) Which options can be set by users under Setup > Sales > Sales Preferences > Forecasts? (Choose  2.) ?
+A. Calculate Forecasts as  Weighted  
+B. Advanced  Forecasting  
+C. Use Opportunities in  Forecast  
+D. Allow Setting Probability in Forecast  Editor  
+E. Allow Override of Quotas in Forecast  Editor
+22) Where can users set subsidiary -level support  preferences?
+A. Case  Profile  
+B. Setup > Company > General  Preferences  
+C. Setup > Support > Support  Preferences  
+D. Subsidiary record
+23) Which role or roles can edit locked  cases?
+A. Administrator  only  
+B. Administrator and Support  Administrator
+C. Administrator Support Administrator and Support  Manager
+D. Administrator and roles with Full access on  Cases  
+24) What is the purpose of selecting Unsubscribed to Marketing by Default under Marketing Preferences?
+A. To enable the Global Subscription Status field on the Customer  record.  
+B. To set the Global Subscription Status to Soft Opt -out once a new Customer record is created.
+C. Existing customers are updated from Soft Opt -in to  Unsubscribed.  
+D. To enable the Campaign Subscription Center link under Home > Dashboard >  Settings portlet.
+25) Using the Standard Sales Order Form what transaction is created when billing a Sales Order that has a Payment Method  selected?
+A. Progress  Invoice
+B. Cash  Sale 
+C. Customer  Payment  
+D. Invoice
+26) Which preference allows users to enter a quantity higher than the quantity committed for an item on an Item Fulfillment  form?
+A. Allow Overage on Item  Fulfillments  
+B. Invoice in Advance of  Fulfillment  
+C. Show Unfulfilled Items on  Invoices  
+D. Allow Overage on Item  Commitments
+27) Which of these  Customer Payment Methods are supported in NetSuite?
+A. ACH  Processing  with Coastal Software  
+B. Electronic Funds  Transfer  
+C. PayPal Express for Web  Stores  
+D. Credit Card Processing for Sales  Orders
+28) Which transaction is created when clicking Refund in a Return Materials Authorization (RMA) record?
+A. Bill Credit  
+B. Inventory Adjustment  
+C. Customer  Refund  
+D. Cash  Refund
+29) Which statement is true about Customer Return Authorization  records?
+A. If created with a Credit Form the record generates a Customer  Deposit.
+B. If created with  a Credit Form the record generates a Credit  Memo.
+C. If created with a Cash Form the record generates a Credit  Memo.
+D. If created with a Cash Form the record generates a Cash  Sale.
+30) Which item types may be used to cluster Item records and group them into one unit? (Choose  2.) ?
+A. Service Items  
+B. Assembly  Items  
+C. Kit/Package  Items  
+D. Lot-Numbered  Items  
+E. Non -inventory For Resale
+31) Which setting changes the quantity and value of an inventory item without entering a purchase order?
+A. Order  Items  
+B. Adjust  Inventory  
+C. Reallocate  Items  
+D. Review Negative  Inventory
+32) Which feature enables users to define various units used to stock purchase and sell inventory items and to track non -monetary  accounts?
+A. Statistical  Accounts  
+B. Multiple Units of  Measure  
+C. Lot Tracking  
+D. Bar Coding and Item  Labels
+33) Which statement is true regarding Price  Levels?
+A. When the Multiple Prices feature is enabled users can create up to 1000 Price  Levels.
+B. Users can only enter a discount percentage on Price  Levels.  
+C. Users are not allowed to inactivate a Price Level when it has a discount/mark -up percentage.
+D. Price Levels cannot have the same discount/mark -up percentage.
+34) Which accounting preference allows invoices to include memos on Time records when the Bill Costs for Customers feature is  enabled?
+A. Copy Source Memos to  Invoices  
+B. Copy Time Memos to  Invoices  
+C. Copy All Memos to  Invoices  
+D. Copy Expense Memos to  Invoices
+35) Which statement is true regarding the Standard Purchase Order Approval Routing  process?
+A. A Purchase Request is automatically routed to the Supervisor if the Purchase Approver is unable to approve the transaction within 24  hours.
+B. If the Purchase Limit of the employee is set to zero then all Purchase Requests are automatically approved even if a Purchase Approver is  set.
+C. A rejected Purchase Request can still be edited and resubmitted for  approval.  
+D. A Purchase Request can no longer be edited once it has been  approved.
+36) At which status does a Vendor Bill affect Accounts  Payable?
+A. Pending  Approval  
+B. Open  
+C. Partially Billed  
+D. Unpaid
+37) Which value can users enter in Global Search to include inactive  records?
+A. cu:-abc 
+B. cu:abc - 
+C. cu:+abc  
+D. cu:abc+
+38) When added to the Criteria subtab of a Transaction search which filter displays primary line data rows  only?
+A. Main Line =  yes 
+B. Item on Any Line = specify  item  
+C. Name = name of the item  
+D. Main Line =  any
+39) Which statement is true about  portlets?
+A. Portlet controls are shown by default but can be hidden by the  user.  
+B. Portlets with content that is calculated from current data includes an Export  function.  
+C. All portlets can be expanded to full -screen  view.  
+D. A pop -up may display sugge sting that portlets can be minimized to speed up dashboard loading  time.
+40) Which statement is true about Mass  Updates?
+A. A Mass Update definition must be saved before users can click Perform  Update.  
+B. The first step to perform a Mass Update is to define new values that will be reflected on records.
+C. On the Mass Update Preview Results page users can exclude  individual  records.
+D. Saved Mass Updates can be found on the list of Saved  Searches.
+41) Which resources under the Support tab can a user access to submit a  case?
+A. NetSuite Administrator  Group  
+B. NetSuite Account  Center  
+C. NetSuite Support  Aid 
+D. NetSuite Assistant
+42) Which is a channel for contacting NetSuite Customer  Support?
+A. Submit a Support Ticket using the Employee Center  role.  
+B. Start a Live Chat conversation at the NetSuite Visitor home  page
+C. Email a NetSuite Customer Support representative  directly.
+D. Submit an Online Case via  SuiteAnswers.  
+43) What can users find in SuiteAnswers the NetSuite self -service support  site?
+A. New Release  Notes  
+B. User Account Provisioning  details  
+C. End user license  agreement  
+D. The user account's File Cabinet  usage
+44) Which functionality is disabled in the Release Preview  account?
+A. Payroll  
+B. Email  Campaigns  
+C. Two -Factor  Authentication  
+D. Memorized  Transactions
+45) Don and Mark both have the Consultant role. The role has the Create permission for Opportunities. Under the Global Permissions subtab of his Employee record Don is provisioned Edit permission for Opportunities. Which statement is  true?
+A. They can  both edit Opportunity  records.  
+B. Mark can create Opportunity records while Don can edit and create Opportunity  records.  
+C. Don can create Opportunity records while Mark can edit and create Opportunity  records.  
+D. Neither Don nor Mark can edit Opportunity  records.
+46) Which attribute cannot be modified when editing a custom  role?
+A. Inactive  
+B. Center  Type  
+C. Employee  Restrictions  
+D. Two -Factor  Authentication
+47) Which standard NetSuite role is set up with mandatory Two -Factor  Authentication?
+A. CEO 
+B. Administrator  
+C. Issue Administrator  
+D. CFO
+48) When is a user asked to answer a security question before they can log in to  NetSuite?
+A. When the user provides an incorrect password upon initial  login.  
+B. If the user logs in using a role with two -factor authentication  enabled.  
+C. When a user proactively changes their  password.  
+D. If the user attempts to log in using a new  computer.
+49) What settings can users change by clicking Set Preferences from the Settings  portlet?
+A. Enable Features  
+B. Company  Preferences  
+C. Accounting  Preferences  
+D. User  Preferences
+50) Where can you find logged OLD and NEW GL Impact of some  transaction?
+A. System notes  
+B. My Login  Audit  
+C. Transaction Audit  Trail  
+D. Transaction Numbering Audit  Log
