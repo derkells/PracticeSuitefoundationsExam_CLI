@@ -2,6 +2,9 @@
 CLI practice test for the SuiteFoundations Exam!  
 While I made this for the SuiteFoundations exam, it could be used with any material you are interested in learning.
 
+**This requires basic terminal knowledge and you must have Python downloaded**
+
+
 ## How to Run
 1. Pull Repo from GitHub
 2. Open Terminal and CD to the parent folder
